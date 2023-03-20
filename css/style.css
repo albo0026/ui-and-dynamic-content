@@ -1,0 +1,79 @@
+@import url("https://use.typekit.net/qaa7ops.css");
+
+body {
+    padding: 7.5rem 9rem 4rem 7rem;
+    text-align: center;
+    background-color: #EDFADE;
+}
+
+img {
+    padding-bottom: 2rem;
+}
+
+h1 {
+    font-family: "hey-eloise", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10rem;
+    color:#448000;
+    margin: 0;
+}
+
+#masthead p {
+    font-family: poppins, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.5rem;
+    color: #747A6D;
+    padding-bottom: 1.5rem;
+}
+
+main p {
+    font-family: "hey-eloise", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+    color: #448000;
+    margin: 0.5rem;
+    border-bottom: 1px solid #747A6D;
+    padding-bottom: 1rem;
+}
+
+#input {
+    border: 1px solid #448000;
+    font-family: poppins, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    margin-bottom: 2rem;
+}
+
+#add {
+    padding: 0.9rem;
+    border: 1px solid #448000;
+    font-family: poppins, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.2rem;
+    color: #EDFADE;
+    background-color: #448000;
+}
+
+#add:hover {
+    color: #448000;
+    background-color: #EDFADE;
+    border: 1px solid #448000;
+    cursor: pointer;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+footer p {
+    font-size: 3rem;
+    padding: 1.5rem;
+    margin-top: 6rem;
+}
